@@ -1,4 +1,4 @@
-module github.com/saubhagyapandey27/springiitk
+module github.com/saubhagyapandey27/GOspring
 
 go 1.21.6
 
